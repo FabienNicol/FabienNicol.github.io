@@ -1,5 +1,4 @@
-# Appartement 2 pièces 45 m2 Montgolfier
-# extérieur 15 m2, parking
+# Appartement 2 pièces 45 m2 Montgolfier extérieur 15 m2, parking
 
 300 000 euros
 
