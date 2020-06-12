@@ -1,5 +1,9 @@
-# Appartement 2 pièces 45 m2 Montgolfier, extérieur 15 m2, parking
+# Appartement 2 pièces 45 m2 Montgolfier
+# extérieur 15 m2, parking
+
 300 000 euros
+
+## Descriptif
 
 quartier Montgolfier à Saint-Maurice
 À moins de 5 minutes commerce (Franprix, Carrefour market, boulangeries, ...), marché de Joinville (jeudi, dimanche), transport, écoles, crèches.
@@ -17,8 +21,12 @@ L'appartement comprends :
 L'appartement se situe dans une résidence de 2003 au rez-de-jardin, sans vis-à-vis au calme. Bon standing, parquet massif. La résidence comprend 52 copropriétaires, elle est bien entretenue, pas de travaux votés.
 chauffage gaz individuel. fibre optique installée.
 
+## Charges
+
 charges de copro annuelles : 950 euros (contrat de maintenance chaudière inclu)
 impôts fonciers 2019 : 1000 euros
+
+## Transport
 
 RER Joinville-Le-Pont (10min à pied)
 bus 111 (au pied de l'immeuble)   
@@ -26,7 +34,24 @@ bus 111 (au pied de l'immeuble)   
  * déssert au nord : Charenton école (ligne Métro 8) / Porte de Charenton (tram 3a) / Bercy (ligne Metro 14)
 bus 281 (au pied de l'immeuble), déssert Joinville-Le-Pont RER / Créteil - Prefecture Metro / Créteil Europarc
 
-Premier contact par sms, précisez brièvement votre projet, votre financement.
-comptes rendus d'AG et relevés des charges fournis après visite.
+## Contact
+
+Premier contact par sms au 06 30 09 81 72, précisez brièvement votre projet, votre financement.
+Comptes rendus d'AG et relevés des charges fournis après visite.
 
 Agence s'abstenir.
+
+## Photos
+
+![plan_appart]('plan.jpg' "plan appart")
+
+![img01](appartement_01_small.jpg "sejour_1")
+
+![img04](appartement_04_small.jpg "sejour_2")
+![img11](appartement_11_small.jpg "sejour_3")
+![img17](appartement_17_small.jpg "chambre_1")
+![img19](appartement_19_small.jpg "chambre_2")
+![img26](appartement_26_small.jpg "sdb")
+![img31](appartement_31_small.jpg "distribution")
+![img32](appartement_32_small.jpg "exterieur")
+![img36](appartement_36_small.jpg "rue")
