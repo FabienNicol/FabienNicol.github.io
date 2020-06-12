@@ -29,9 +29,11 @@ impôts fonciers 2019 : 1000 euros
 ## Transport
 
 RER Joinville-Le-Pont (10min à pied)
+
 bus 111 (au pied de l'immeuble)   
  * déssert  au sud : Champigny - St-Maur RER / St-Maur - Créteil RER   
  * déssert au nord : Charenton école (ligne Métro 8) / Porte de Charenton (tram 3a) / Bercy (ligne Metro 14)
+ 
 bus 281 (au pied de l'immeuble), déssert Joinville-Le-Pont RER / Créteil - Prefecture Metro / Créteil Europarc
 
 ## Contact
