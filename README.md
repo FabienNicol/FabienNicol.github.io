@@ -4,7 +4,8 @@
 
 ## Descriptif
 
-quartier Montgolfier à Saint-Maurice
+Quartier Montgolfier à Saint-Maurice.
+
 À moins de 5 minutes commerce (Franprix, Carrefour market, boulangeries, ...), marché de Joinville (jeudi, dimanche), transport, écoles, crèches.
 Proximité du bois de Vincennes, des bords de Marne.
 
