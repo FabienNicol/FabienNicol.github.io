@@ -43,15 +43,23 @@ Agence s'abstenir.
 
 ## Photos
 
-![plan_appart](images/plan.jpg "plan appart")
-
 ![img01](images/appartement_01_small.jpg "sejour_1")
 
 ![img04](images/appartement_04_small.jpg "sejour_2")
+
 ![img11](images/appartement_11_small.jpg "sejour_3")
+
 ![img17](images/appartement_17_small.jpg "chambre_1")
+
 ![img19](images/appartement_19_small.jpg "chambre_2")
-![img26](images/appartement_26_small.jpg "sdb")
+
+![img26](images/appartement_26_small.jpg "sdb, la couleur du carrelage est sable")
+*la couleur du carrelage est en fait sable.*
+
 ![img31](images/appartement_31_small.jpg "distribution")
+
 ![img32](images/appartement_32_small.jpg "exterieur")
+
+![plan](images/plan.JPG "plan appart")
+
 ![img36](images/appartement_36_small.jpg "rue")
