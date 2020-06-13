@@ -38,7 +38,7 @@ bus 281 (au pied de l'immeuble), déssert Joinville-Le-Pont RER / Créteil - Pre
 
 ## Contact
 
-Premier contact par sms au 06 30 09 81 72, précisez brièvement votre projet, votre financement.
+Premier contact par email à fabien.nicol@gmail.com, précisez brièvement votre projet, votre financement.
 Comptes rendus d'AG et relevés des charges fournis après visite.
 
 Agence s'abstenir.
